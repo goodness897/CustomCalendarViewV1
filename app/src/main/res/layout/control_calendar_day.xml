@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="39dp"
+    android:layout_height="39dp"
+    android:gravity="center"
+    android:minHeight="39dp"
+    android:textAlignment="center"
+    android:textAppearance="@android:style/TextAppearance.Medium" />
